@@ -1,0 +1,57 @@
+body{
+  background-color: #a5d2f7;
+  background-image: url("https://www.surfnetkids.com/resources/wp-content/uploads/2016/12/snow.jpg");
+  background-position: relative;
+
+}
+
+#titleSeq {
+  align-content: 30%;
+  text-align: 30%;
+  /* margin-left: 30% */
+
+}
+
+h1{
+  font-style: : serif;
+  font-size: 3em;
+  margin-left: 5%;
+}
+#search-val {
+  position: relative;
+  left: 23%;
+  width: 13em;
+  height: 2em;
+  font-size: 1em;
+}
+#search-button{
+  position: relative;
+  left: 26%;
+  width: 7em;
+  height: 2em;
+  font-size: 1em;
+}
+#instructions {
+  text-indent:2em;
+  font-style: serif;
+  font-size: 1.5em;
+  position: relative;
+  left: 10%;
+}
+H2{
+  font-style: serif;
+  margin-left: 20%
+}
+
+#srepor{
+  font: serif;
+  font-style: bold;
+  margin left: 10em;
+}
+
+ul{
+  font: serif;
+  font-size: 1.5em;
+  position: relative;
+  left: 20%
+}
